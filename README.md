@@ -22,27 +22,27 @@ if the vehicle will correctly be identified.
 __Type of the vehicles__
 1. Fire birgade trucks (CCF):
 
-![alt text](images/image.png)
+![alt text](md_images/image.png)
 
 - red / yellow colors
 - black lettered identifiers in yelllow or white bg 
 
 2. VLTT: light off road
 
-![alt text](images/image-1.png)
+![alt text](md_images/image-1.png)
 
 - mainly red
 - yellow  or white bg / red letters with identifier
 
 3. 4x4 VT4 
 
-![alt text](images/image-2.png)
+![alt text](md_images/image-2.png)
 
 - different colors possible
 - rather not red
 
 4. VBL light armoured vehicle 
-![alt text](images/image-3.png)
+![alt text](md_images/image-3.png)
 
 - rather military colors
 
